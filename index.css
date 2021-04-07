@@ -158,25 +158,25 @@ body{
 		background-color: white;
 	}
 	30% {
-		background-color: white;
+		background-color: #F5D3A5;
 	}
 	50% {
-		background-color: #E0DEDE;
+		background-color: #CAAC78;
 	}
 	100% {
-		background-color: #E0DEDE;
+		background-color: #C2985E;
 	}	
 }
 
 @keyframes uppercolor {
 	0% {
-		background-color: #E0DEDE;
+		background-color: #C2985E;
 	}
 	30% {
-		background-color: #E0DEDE;
+		background-color: #CAAC78;
 	}
 	50% {
-		background-color: white;
+		background-color: #F5D3A5;
 	}
 	100% {
 		background-color: white;
